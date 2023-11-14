@@ -18,7 +18,6 @@ Material:
   - _ENABLESTARSROTATION_ON
   - _ENABLESTARSTWINKLING_ON
   - _ENABLESTARS_ON
-  - _ENABLESUN_ON
   m_InvalidKeywords:
   - _BUILTINFOG_ON
   - _CLOUDS_ON
@@ -234,7 +233,7 @@ Material:
     - _EnableStarsRotation: 1
     - _EnableStarsSunMask: 1
     - _EnableStarsTwinkling: 1
-    - _EnableSun: 1
+    - _EnableSun: 0
     - _EnableSunMask: 1
     - _EnableSunMoon: 1
     - _EnableSunMoonMask: 1
