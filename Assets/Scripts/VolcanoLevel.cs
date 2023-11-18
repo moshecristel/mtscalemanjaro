@@ -7,5 +7,5 @@ public class VolcanoLevel
     public int Dims => RadiusInBlocks * 2;
     
     // Key is block's OriginNormalizedOffset, but with the Y at Ground Level
-    public Dictionary<Vector3Int, VolcanoBlock> GroundLevelOffsetToBlock { get; set; } = new();
+    public Dictionary<Vector3Int, VolcanoBlockOld> GroundLevelOffsetToBlock { get; set; } = new();
 }

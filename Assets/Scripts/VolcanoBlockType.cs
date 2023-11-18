@@ -2,7 +2,7 @@
 public enum VolcanoBlockType
 {
     Base,
-    Top,
-    Subtract
+    TopBevel,
+    TopGrass
 }
 
